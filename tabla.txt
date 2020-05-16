@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<body>
+<table align="center"border="1">
+<tr>
+<td   rowspan="4"    colspan="2"width=250px>Riesgo</td>
+</tr>
+<tr>
+<td   colspan="6" bgcolor="7aa5dd">Evaluacion del riesgo</td>
+</tr>
+<tr bgcolor="dcea06">
+<td colspan="2">probabilidad</td>
+<td colspan="2">impacto</td>
+<td colspan="2">nivel de riesgo</td>
+</tr>
+<tr bgcolor="88ee99">
+<td width=90px>nivel</td>
+<td width=90px>valor</td>
+<td width=90px>nivel</td>
+<td width=90px>valor</td>
+<td width=90px>nivel</td>
+<td width=90px>valor</td>
+</tr>
+<td>R1</td>
+<td>perdida de señal</td>
+<td>ocacional</td>
+<td>3</td>
+<td>critico</td>
+<td>4</td>
+<td>importante</td>
+<td>6</td>
+</tr>
+<td>R2</td>
+<td>perdida de señal</td>
+<td>ocacional</td>
+<td>3</td>
+<td>critico</td>
+<td>4</td>
+<td>importante</td>
+<td>6</td>
+</tr>
